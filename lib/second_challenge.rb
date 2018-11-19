@@ -8,6 +8,6 @@ def second_challenge
 
   #code your solution here!
 
-  family_members.values
+  return groceries.values
 
 end
